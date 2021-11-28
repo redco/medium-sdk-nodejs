@@ -1,5 +1,5 @@
 {
-    "name": "medium-sdk",
+    "name": "@redcode/medium-sdk",
     "description": "NodeJS client for the Medium app",
     "version": "0.0.4",
     "homepage": "https://github.com/medium/medium-sdk-nodejs",
